@@ -27,7 +27,7 @@ const fuhad = {
 };
 ```
 
-I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I'm a Computer Engineering student at OAU, co-founder of two startups, and a freelancer who's worked across Nigeria and internationally. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
+I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I'm a Computer Engineering student at OAU, co-founder of two startups. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
 
 ---
 

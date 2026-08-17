@@ -21,9 +21,9 @@ const fuhad = {
     database: ["Supabase", "MongoDB"],
     tools:    ["Vercel", "Render", "Git"],
   },
-  currentlyBuilding: "things that actually solve problems for real Nigerians",
+  currentlyBuilding: "products that solve real problems",
   openTo:            ["fulltime roles", "freelance", "contract", "collaboration"],
-  funFact:           "I've written more Supabase RLS policies than I've eaten jollof rice. almost.",
+  funFact:           "I've written more code than I've eaten jollof rice. almost.",
 };
 ```
 

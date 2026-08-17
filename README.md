@@ -1,4 +1,4 @@
-<p align="center">
+**<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Fuhad%20Adeyanju&fontSize=48&fontColor=52b788&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Co-founder%20%7C%20Builder&descAlignY=58&descColor=b7e4c7&animation=fadeIn" />
 </p>
 
@@ -21,22 +21,25 @@ const fuhad = {
     database: ["Supabase", "MongoDB"],
     tools:    ["Vercel", "Render", "Git"],
   },
-  currentlyBuilding: "products that solve real problems",
+  currentlyBuilding: "products that solve real problems — whether that's Lagos or London",
   openTo:            ["fulltime roles", "freelance", "contract", "collaboration"],
-  funFact:           "I've written more code than I've eaten jollof rice. almost.",
+  funFact:           "I've written more Supabase RLS policies than I've eaten jollof rice. almost.",
 };
 ```
 
+I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I'm a Computer Engineering student at OAU, co-founder of two startups, and a freelancer who's worked across Nigeria and internationally. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
+
 ---
 
-## 🚀 Shipped & Live
+## 🚀 Projects
 
-> If it's not deployed, it didn't happen.
-
-| Project | What it does |
-|--------|--------------|
-| **[AgroFinis](https://github.com/Fuhad-adeyanju09/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice |
-| **[Luxe Estate](https://github.com/Fuhad-adeyanju09/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client |
+| Project | What it does | Status |
+|--------|--------------|--------|
+| **[AgroFinis](https://github.com/Fuhad-adeyanju09/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice | 🟢 Live |
+| **[Luxe Estate](https://github.com/Fuhad-adeyanju09/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client | 🟢 Live |
+| **[SOVA](https://github.com/Fuhad-adeyanju09/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |
+| **[Kredia](https://github.com/Fuhad-adeyanju09/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, and a skill-trade credit system | 🔨 In Dev |
+| **[portfolio_ade](https://github.com/Fuhad-adeyanju09/portfolio_ade)** | Personal portfolio site | ✅ Shipped |
 
 ---
 
@@ -79,4 +82,4 @@ const fuhad = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a3a2a,100:0d1117&height=100&section=footer" />
-</p>
+</p>**

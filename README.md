@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Fuhad%20Adeyanju&fontSize=48&fontColor=52b788&fontAlignY=38&desc=ML%20Engineer%20%7C%20Fullstack%20Dev%20%7C%20Builder&descAlignY=58&descColor=b7e4c7&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Fuhad%20Adeyanju&fontSize=48&fontColor=52b788&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Co-founder%20%7C%20Builder&descAlignY=58&descColor=b7e4c7&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fuhad-adeyanju"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fiverr.com/dev_fuhad"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://x.com/AdeyanjuFuhad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/Fuhad-adeyanju09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Fuhad-adeyanju09&style=for-the-badge&color=2d6a4f&label=PROFILE+VIEWS" />
 </p>
@@ -13,51 +13,39 @@
 
 ```js
 const fuhad = {
-  title:     "ML Engineer & Fullstack Developer",
-  education: "Computer Engineering @ OAU (Best Graduating Student — Nupat Technologies)",
-  companies: ["TaxBridge (co-founder, ML + Infra)", "SOVA (fintech)", "AgroFinis (agtech)"],
+  title:     "Fullstack Developer",
+  education: "Computer Engineering @ OAU | Best Graduating Student — Nupat Technologies",
   stack: {
-    ml:       ["Python", "FastAPI", "Gemini", "scikit-learn"],
-    frontend: ["React", "React Native", "Expo", "Tailwind CSS"],
-    backend:  ["Node.js", "Express", "Supabase", "MongoDB"],
-    tools:    ["Docker", "Render", "Vercel", "EAS Build"],
+    frontend: ["React", "React Native", "Expo", "Tailwind CSS", "HTML/CSS"],
+    backend:  ["Node.js", "Express", "Python", "FastAPI"],
+    database: ["Supabase", "MongoDB"],
+    tools:    ["Vercel", "Render", "Git"],
   },
-  currentlyBuilding: "AgroFinis — agtech platform for Nigerian agribusinesses",
-  alsoShipping:      "SOVA — digitizing Ajo/Esusu rotating savings groups",
-  openTo:            ["freelance", "contract", "collaboration"],
-  nigerianDevMotto:  "ship it, then fix it. but also fix it.",
+  currentlyBuilding: "things that actually solve problems for real Nigerians",
+  openTo:            ["fulltime roles", "freelance", "contract", "collaboration"],
+  funFact:           "I've written more Supabase RLS policies than I've eaten jollof rice. almost.",
 };
 ```
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Shipped & Live
 
-| Project | What it is | Status |
-|--------|------------|--------|
-| **[AgroFinis](https://github.com/Fuhad-adeyanju09/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to farmers, markets & AI-driven agronomic advice | 🟢 Live |
-| **[SOVA](https://github.com/Fuhad-adeyanju09/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR joining | 🟡 In Dev |
-| **TaxBridge** | AI-powered tax compliance middleware for Nigerian businesses | 🟡 In Dev |
-| **[Kredia](https://github.com/Fuhad-adeyanju09/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, skill-trade credit system | 🔵 Prototype |
-| **TwinSight** | Lab Trend Visualizer with AI Explainer (React + FastAPI + Gemini) — Ontomorph Hackathon build | ✅ Shipped |
+> If it's not deployed, it didn't happen.
+
+| Project | What it does |
+|--------|--------------|
+| **[AgroFinis](https://github.com/Fuhad-adeyanju09/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice |
+| **[Luxe Estate](https://github.com/Fuhad-adeyanju09/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client |
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,python,fastapi,supabase,mongodb,git,vercel,github&perline=7" />
+  </a>
 </p>
 
 ---
@@ -71,6 +59,20 @@ const fuhad = {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuhad-adeyanju09&theme=github-dark-blue&background=0d1117&border=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=52b788&sideLabels=b7e4c7&dates=74c69d" />
+</p>
+
+---
+
+## 💡 Philosophy
+
+<p align="center"><i>I write code that ships, not code that sits in branches forever.</i></p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100" />
 </p>
 
 ---

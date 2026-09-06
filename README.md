@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fuhad-adeyanju"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/AdeyanjuFuhad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/Fuhad-adeyanju09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Fuhad-adeyanju09&style=for-the-badge&color=2d6a4f&label=PROFILE+VIEWS" />
+  <a href="https://github.com/adeyanjufuhad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adeyanjufuhad&style=for-the-badge&color=2d6a4f&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -35,11 +35,11 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 | Project | What it does | Status |
 |--------|--------------|--------|
-| **[AgroFinis](https://github.com/Fuhad-adeyanju09/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice | 🟢 Live |
-| **[Luxe Estate](https://github.com/Fuhad-adeyanju09/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client | 🟢 Live |
-| **[SOVA](https://github.com/Fuhad-adeyanju09/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |
-| **[Kredia](https://github.com/Fuhad-adeyanju09/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, and a skill-trade credit system | 🔨 In Dev |
-| **[portfolio_ade](https://github.com/Fuhad-adeyanju09/portfolio_ade)** | Personal portfolio site | ✅ Shipped |
+| **[AgroFinis](https://github.com/adeyanjufuhad/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice | 🟢 Live |
+| **[Luxe Estate](https://github.com/adeyanjufuhad/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client | 🟢 Live |
+| **[SOVA](https://github.com/adeyanjufuhad/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |
+| **[Kredia](https://github.com/adeyanjufuhad/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, and a skill-trade credit system | 🔨 In Dev |
+| **[portfolio_ade](https://github.com/adeyanjufuhad/portfolio_ade)** | Personal portfolio site | ✅ Shipped |
 
 ---
 
@@ -56,12 +56,12 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fuhad-adeyanju09&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2d6a4f&icon_color=52b788&title_color=52b788&text_color=b7e4c7&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuhad-adeyanju09&layout=compact&theme=github_dark&bg_color=0d1117&border_color=2d6a4f&title_color=52b788&text_color=b7e4c7&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeyanjufuhad&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2d6a4f&icon_color=52b788&title_color=52b788&text_color=b7e4c7&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyanjufuhad&layout=compact&theme=github_dark&bg_color=0d1117&border_color=2d6a4f&title_color=52b788&text_color=b7e4c7&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuhad-adeyanju09&theme=github-dark-blue&background=0d1117&border=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=52b788&sideLabels=b7e4c7&dates=74c69d" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeyanjufuhad&theme=github-dark-blue&background=0d1117&border=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=52b788&sideLabels=b7e4c7&dates=74c69d" />
 </p>
 
 ---

@@ -16,7 +16,7 @@ const fuhad = {
   title:     "Fullstack Developer",
   education: "Computer Engineering @ OAU | Best Graduating Student — Nupat Technologies",
   stack: {
-    frontend: ["React", "React Native", "Expo", "Tailwind CSS", "HTML/CSS"],
+    frontend: ["React","Next Js","React Native", "Expo", "Tailwind CSS", "HTML/CSS"],
     backend:  ["Node.js", "Express", "Python", "FastAPI"],
     database: ["Supabase", "MongoDB"],
     tools:    ["Vercel", "Render", "Git"],

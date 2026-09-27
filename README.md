@@ -35,6 +35,7 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 | Project | What it does | Status |
 |--------|--------------|--------|
+| **[CheckAm](https://github.com/adeyanjufuhad/CheckAm)** | Free scam checker for Nigerian messages, links and screenshots — in English and Pidgin | 🆕 New |
 | **[AgroFinis](https://github.com/adeyanjufuhad/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice | 🟢 Live |
 | **[Luxe Estate](https://github.com/adeyanjufuhad/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client | 🟢 Live |
 | **[SOVA](https://github.com/adeyanjufuhad/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |

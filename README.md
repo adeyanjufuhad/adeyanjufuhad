@@ -40,7 +40,7 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 | **[Luxe Estate](https://github.com/adeyanjufuhad/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client | 🟢 Live |
 | **[SOVA](https://github.com/adeyanjufuhad/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |
 | **[Kredia](https://github.com/adeyanjufuhad/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, and a skill-trade credit system | 🔨 In Dev |
-| **[portfolio_ade](https://github.com/adeyanjufuhad/portfolio_ade)** | Personal portfolio site | ✅ Shipped |
+| **[portfolio](https://github.com/adeyanjufuhad/portfolio)** | Personal portfolio site | ✅ Shipped |
 
 ---
 

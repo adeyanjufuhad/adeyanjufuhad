@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/alpine-dawn.gif" width="100%" alt="Alpine dawn — dot-matrix mountains at sunrise" />
-</p>
-
-<p align="center">
-  <img src="assets/scramble.svg" width="100%" alt="Fuhad Adeyanju · Full Stack Developer · Mobile App Developer · I wrote an &lt;h1&gt; tag once" />
+  <img src="assets/hero.svg" width="100%" alt="Fuhad Adeyanju · Full Stack Developer · Mobile App Developer · I wrote an &lt;h1&gt; tag once — over a dot-matrix alpine dawn" />
 </p>
 
 <p align="center">

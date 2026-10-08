@@ -1,5 +1,9 @@
-**<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d6a4f&height=200&section=header&text=Fuhad%20Adeyanju&fontSize=48&fontColor=52b788&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Co-founder%20%7C%20Builder&descAlignY=58&descColor=b7e4c7&animation=fadeIn" />
+<p align="center">
+  <img src="assets/alpine-dawn.gif" width="100%" alt="Alpine dawn — dot-matrix mountains at sunrise" />
+</p>
+
+<p align="center">
+  <img src="assets/ascii-name.svg" width="100%" alt="Fuhad Adeyanju · Full Stack Developer · Mobile App Developer · I wrote an &lt;h1&gt; tag once" />
 </p>
 
 <p align="center">
@@ -83,4 +87,4 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a3a2a,100:0d1117&height=100&section=footer" />
-</p>**
+</p>

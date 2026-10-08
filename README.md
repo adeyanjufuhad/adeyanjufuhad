@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/ascii-name.svg" width="100%" alt="Fuhad Adeyanju · Full Stack Developer · Mobile App Developer · I wrote an &lt;h1&gt; tag once" />
+  <img src="assets/scramble.svg" width="100%" alt="Fuhad Adeyanju · Full Stack Developer · Mobile App Developer · I wrote an &lt;h1&gt; tag once" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fuhad-adeyanju"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/AdeyanjuFuhad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/adeyanjufuhad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adeyanjufuhad&style=for-the-badge&color=2d6a4f&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=adeyanjufuhad&style=for-the-badge&color=4a5287&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -61,12 +61,12 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeyanjufuhad&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=2d6a4f&icon_color=52b788&title_color=52b788&text_color=b7e4c7&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyanjufuhad&layout=compact&theme=github_dark&bg_color=0d1117&border_color=2d6a4f&title_color=52b788&text_color=b7e4c7&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeyanjufuhad&show_icons=true&theme=github_dark&bg_color=0b0e1c&border_color=2a2f5a&icon_color=f2a68b&title_color=f2a68b&text_color=c9cdf0&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeyanjufuhad&layout=compact&theme=github_dark&bg_color=0b0e1c&border_color=2a2f5a&title_color=f2a68b&text_color=c9cdf0&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeyanjufuhad&theme=github-dark-blue&background=0d1117&border=2d6a4f&ring=52b788&fire=95d5b2&currStreakLabel=52b788&sideLabels=b7e4c7&dates=74c69d" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeyanjufuhad&theme=github-dark-blue&background=0b0e1c&border=2a2f5a&ring=f2a68b&fire=f2a68b&currStreakNum=c9cdf0&sideNums=c9cdf0&currStreakLabel=f2a68b&sideLabels=8b95dc&dates=8b95dc&stroke=2a2f5a" />
 </p>
 
 ---
@@ -86,5 +86,5 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1a3a2a,100:0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2a68b,50:4a5287,100:0b0e1c&height=110&section=footer&reversal=true" />
 </p>

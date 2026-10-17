@@ -1,0 +1,53 @@
+name: profile art
+
+# Redraws the contribution graph and snake in the profile's navy/peach/lilac
+# palette and publishes them to the `output` branch, which the README links to.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-art.yml
+      - .github/scripts/activity.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Contribution activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          python .github/scripts/activity.py "${{ github.repository_owner }}" dist/activity.svg 60
+
+      - name: Contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#ffd0b0&color_dots=#161b33,#2a2f5a,#4a5287,#8b95dc,#f2a68b
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Redraw profile art"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

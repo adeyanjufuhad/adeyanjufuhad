@@ -31,6 +31,14 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 ---
 
+## ✨ Highlights
+
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="Computer Engineering @ OAU · Best Graduating Student, Nupat Technologies · Co-founder of two startups · Founder of SOVA · Shipped Luxe Estate for a UK client · Built CheckAm" />
+</p>
+
+---
+
 ## 🚀 Projects
 
 | Project | What it does | Status |
@@ -41,6 +49,18 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 | **[SOVA](https://github.com/adeyanjufuhad/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |
 | **[Kredia](https://github.com/adeyanjufuhad/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, and a skill-trade credit system | 🔨 In Dev |
 | **[portfolio](https://github.com/adeyanjufuhad/portfolio)** | Personal portfolio site | ✅ Shipped |
+
+
+---
+
+## 🧪 More From the Lab
+
+<p align="center">
+  <a href="https://github.com/adeyanjufuhad/VeriFlow"><img width="49%" alt="VeriFlow" src="https://github-readme-stats.vercel.app/api/pin/?username=adeyanjufuhad&repo=VeriFlow&bg_color=0b0e1c&border_color=2a2f5a&icon_color=f2a68b&title_color=f2a68b&text_color=c9cdf0&description_lines_count=2" /></a>
+  <a href="https://github.com/adeyanjufuhad/paraval"><img width="49%" alt="paraval" src="https://github-readme-stats.vercel.app/api/pin/?username=adeyanjufuhad&repo=paraval&bg_color=0b0e1c&border_color=2a2f5a&icon_color=f2a68b&title_color=f2a68b&text_color=c9cdf0&description_lines_count=2" /></a>
+  <a href="https://github.com/adeyanjufuhad/FastTrack"><img width="49%" alt="FastTrack" src="https://github-readme-stats.vercel.app/api/pin/?username=adeyanjufuhad&repo=FastTrack&bg_color=0b0e1c&border_color=2a2f5a&icon_color=f2a68b&title_color=f2a68b&text_color=c9cdf0&description_lines_count=2" /></a>
+  <a href="https://github.com/adeyanjufuhad/DevMind"><img width="49%" alt="DevMind" src="https://github-readme-stats.vercel.app/api/pin/?username=adeyanjufuhad&repo=DevMind&bg_color=0b0e1c&border_color=2a2f5a&icon_color=f2a68b&title_color=f2a68b&text_color=c9cdf0&description_lines_count=2" /></a>
+</p>
 
 ---
 
@@ -65,6 +85,19 @@ I build for **web and mobile**, and I take product quality personally. Whether i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeyanjufuhad&theme=github-dark-blue&background=0b0e1c&border=2a2f5a&ring=f2a68b&fire=f2a68b&currStreakNum=c9cdf0&sideNums=c9cdf0&currStreakLabel=f2a68b&sideLabels=8b95dc&dates=8b95dc&stroke=2a2f5a" />
 </p>
 
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/activity.svg" width="100%" alt="Contribution activity over the last 60 days" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/snake.svg" width="100%" alt="A snake eating my contribution graph" />
+</p>
+
 ---
 
 ## 💡 Philosophy
@@ -77,6 +110,22 @@ I build for **web and mobile**, and I take product quality personally. Whether i
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100" />
+</p>
+
+
+---
+
+## 🤝 Let's Build Something
+
+<p align="center">
+  Open to <b>full-time roles</b>, <b>freelance</b>, <b>contract work</b> and <b>collaboration</b> — whether that's Lagos or London.<br/>
+  If you've got a product that needs to ship, I'd love to hear about it.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-chi-one-xbroepluj2.vercel.app/"><img src="https://img.shields.io/badge/See_my_portfolio-f2a68b?style=for-the-badge&logo=vercel&logoColor=0b0e1c&labelColor=f2a68b&color=f2a68b" /></a>
+  <a href="https://www.linkedin.com/in/fuhad-adeyanju"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-8b95dc?style=for-the-badge&logo=linkedin&logoColor=0b0e1c" /></a>
+  <a href="https://x.com/AdeyanjuFuhad"><img src="https://img.shields.io/badge/Say_hi_on_X-4a5287?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---

@@ -94,8 +94,18 @@ I build for **web and mobile**, and I take product quality personally. Whether i
   <img src="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/activity.svg" width="100%" alt="Contribution activity over the last 60 days" />
 </p>
 
+---
+
+## 🐍 Snake Mode
+
+<p align="center"><i>Every green square is a day I shipped something. This one eats them.</i></p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/snake.svg" width="100%" alt="A snake eating my contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/adeyanjufuhad/adeyanjufuhad/output/snake.svg" width="100%" alt="A snake eating my contribution graph" />
+  </picture>
 </p>
 
 ---

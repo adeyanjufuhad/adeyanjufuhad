@@ -134,7 +134,7 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 <p align="center">
   <a href="https://portfolio-chi-one-xbroepluj2.vercel.app/"><img src="https://img.shields.io/badge/See_my_portfolio-f2a68b?style=for-the-badge&logo=vercel&logoColor=0b0e1c&labelColor=f2a68b&color=f2a68b" /></a>
-  <a href="https://www.linkedin.com/in/fuhad-adeyanju"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-8b95dc?style=for-the-badge&logo=linkedin&logoColor=0b0e1c" /></a>
+  <a href="https://www.linkedin.com/in/adeyanjufuhad"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-8b95dc?style=for-the-badge&logo=linkedin&logoColor=0b0e1c" /></a>
   <a href="https://x.com/AdeyanjuFuhad"><img src="https://img.shields.io/badge/Say_hi_on_X-4a5287?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 

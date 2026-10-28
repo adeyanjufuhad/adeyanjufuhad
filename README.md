@@ -74,7 +74,7 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adeyanjufuhad&show_icons=true&theme=github_dark&bg_color=0b0e1c&border_color=2a2f5a&icon_color=f2a68b&title_color=f2a68b&text_color=c9cdf0&hide_border=false" height="165" />

@@ -15,6 +15,7 @@
 const fuhad = {
   title:     "Fullstack Developer",
   education: "Computer Engineering @ OAU | Best Graduating Student — Nupat Technologies",
+  hackathons: ["🥇 1st — OPEN//BUILD 2026 (Ṣòwò)", "🥈 2nd — Devcenter Hacktober 2026 (Sova)"],
   stack: {
     frontend: ["React","Next Js","React Native", "Expo", "Tailwind CSS", "HTML/CSS"],
     backend:  ["Node.js", "Express", "Python", "FastAPI", "Go"],
@@ -27,7 +28,7 @@ const fuhad = {
 };
 ```
 
-I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I am a Computer Engineering student at OAU, co-founder of two startups & Founder of Sova, which took 2nd place at Devcenter Hacktober 2026. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
+I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I am a Computer Engineering student at OAU, co-founder of two startups, Founder of Sova, and a **2× hackathon winner**: 🥇 1st at OPEN//BUILD 2026 with Ṣòwò and 🥈 2nd at Devcenter Hacktober 2026 with Sova. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
 
 ---
 

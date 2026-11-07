@@ -17,7 +17,7 @@ const fuhad = {
   education: "Computer Engineering @ OAU | Best Graduating Student — Nupat Technologies",
   stack: {
     frontend: ["React","Next Js","React Native", "Expo", "Tailwind CSS", "HTML/CSS"],
-    backend:  ["Node.js", "Express", "Python", "FastAPI"],
+    backend:  ["Node.js", "Express", "Python", "FastAPI", "Go"],
     database: ["Supabase", "MongoDB"],
     tools:    ["Vercel", "Render", "Git"],
   },
@@ -68,7 +68,7 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,python,fastapi,supabase,mongodb,git,vercel,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,python,fastapi,supabase,go,mongodb,git,vercel,github&perline=7" />
   </a>
 </p>
 

@@ -27,14 +27,14 @@ const fuhad = {
 };
 ```
 
-I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I am a Computer Engineering student at OAU, co-founder of two startups & Founder of Sova. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
+I build for **web and mobile**, and I take product quality personally. Whether it's a fintech app for savings groups or a real estate portal for a UK client, I bring the same energy — clean UI, solid architecture, and code that actually ships. I am a Computer Engineering student at OAU, co-founder of two startups & Founder of Sova, which took 2nd place at Devcenter Hacktober 2026. If you need someone who can own a feature end-to-end and communicate clearly, that's me.
 
 ---
 
 ## ✨ Highlights
 
 <p align="center">
-  <img src="assets/highlights.svg" width="100%" alt="Computer Engineering @ OAU · Best Graduating Student, Nupat Technologies · Co-founder of two startups · Founder of SOVA · Shipped Luxe Estate for a UK client · Built CheckAm" />
+  <img src="assets/highlights.svg" width="100%" alt="Computer Engineering @ OAU · Best Graduating Student, Nupat Technologies · Co-founder of two startups · Founder of SOVA, 2nd place at Devcenter Hacktober 2026 · Shipped Luxe Estate for a UK client · Built CheckAm" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ I build for **web and mobile**, and I take product quality personally. Whether i
 | **[CheckAm](https://github.com/adeyanjufuhad/CheckAm)** | Free scam checker for Nigerian messages, links and screenshots — in English and Pidgin | 🆕 New |
 | **[AgroFinis](https://github.com/adeyanjufuhad/AgroFinis)** | Agtech platform connecting Nigerian agribusinesses to verified farmers, real-time commodity markets & AI agronomic advice | 🟢 Live |
 | **[Luxe Estate](https://github.com/adeyanjufuhad/Luxe_Estate)** | Premium UK real estate web portal — property listings, search, and inquiry system built for a client | 🟢 Live |
-| **[SOVA](https://github.com/adeyanjufuhad/Sova)** | Digitizing Ajo/Esusu/Adashe rotating savings groups — automated payouts, Sova Score, QR group joining | 🔨 In Dev |
+| **[SOVA](https://github.com/adeyanjufuhad/Sova)** | Record keeper for Ajo/Esusu/Adashe savings circles — fair payout draw, tamper-evident ledger, Sova Score. 🥈 2nd place, Devcenter Hacktober 2026 | 🟢 Live |
 | **[Kredia](https://github.com/adeyanjufuhad/Kredia)** | Campus intelligence platform — past questions AI, live power-spot map, and a skill-trade credit system | 🔨 In Dev |
 | **[portfolio](https://github.com/adeyanjufuhad/portfolio)** | Personal portfolio site | ✅ Shipped |
 
